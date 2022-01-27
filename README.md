@@ -7,4 +7,4 @@
 > Write a method for dividing one integer by another integer 
 > using any of the other arithmetic operations 
 > (addition, subtraction, multiplication, but not division).
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/algorithms/task_1)
