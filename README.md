@@ -19,7 +19,7 @@
 
 ### Task 1
 > Write a Java program to find the second-largest number in an array.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/arrays/task_1)
 
 ---
 
@@ -30,50 +30,50 @@
 ### Task 1
 > In each word of the text, replace the k-th letter with the given character. 
 > If k is greater than the word length, no adjustment is made.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_1)
 
 ---
 
 ### Task 2
 >In the text, replace each letter with its ordinal number in the alphabet.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_2)
 
 ---
 
 ### Task 3
 >Find the sum of all occurring digits in the given text.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_3)
 
 ---
 
 ### Task 4
 >Replace all identical adjacent characters in the text with a single 
 >character with a capital letter.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_4)
 
 ---
 
 ### Task 5
 >In each sentence of the text, swap the first word with the last.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_5)
 
 ---
 
 ### Task 6
 >Remove from the text all words of a given length that begin with a consonant.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_6)
 
 ---
 
 ### Task 7
 >Write a Java program to remove all spaces from a string using replace().
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_7)
 
 ---
 
 ### Task 8
 >Write a Java program to remove all spaces from a string without using replace().
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/string/task_8)
 
 ---
 
@@ -85,14 +85,14 @@
 > The file with the text in English is given. Select all different words.
 > Words that differ only in letter case are considered the same.
 > Use the HashSet class.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/collections/task_1)
 
 ---
 
 ### Task 2
 > Enter lines from the file, write to the list. 
 > Write the lines to the file in reverse order.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/collections/task_2)
 
 ---
 
@@ -113,6 +113,6 @@
 >> sort cars in descending order of cost.
 > 
 >Solve problems using the Stream API application interface.
-### [solution]()
+### [solution](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_Additional/tree/master/stream/task_1)
 
 ---
