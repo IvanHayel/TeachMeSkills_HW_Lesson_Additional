@@ -77,8 +77,8 @@ public final class DivisionUtil {
         }
         int integerSign = ((dividend < 0) ^ (divisor < 0)) ? -1 : 1;
         int remainderSign = ((dividend < 0) || (divisor < 0)) ? -1 : 1;
-        int dividendUnsigned = abs(dividend);
-        int divisorUnsigned = abs(divisor);
+        long dividendUnsigned = abs(dividend);
+        long divisorUnsigned = abs(divisor);
         int integerUnsigned = 0;
         int temp = 1;
         while (divisorUnsigned <= dividendUnsigned) {
@@ -94,7 +94,7 @@ public final class DivisionUtil {
             }
         }
         int integer = integerSign * integerUnsigned;
-        int remainder = remainderSign * (abs(dividend) - integerUnsigned * divisorUnsigned);
+        int remainder = (int) (remainderSign * (abs(dividend) - integerUnsigned * divisorUnsigned));
         return new Quotient(integer, remainder);
     }
 }

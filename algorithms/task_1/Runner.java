@@ -5,8 +5,15 @@ import algorithms.task_1.util.DivisionUtil;
 
 import java.math.BigDecimal;
 
+/**
+ * Imagine that Java does not have a division operation.
+ * Write a method for dividing one integer by another integer using
+ * any of the other arithmetic operations
+ * (addition, subtraction, multiplication, but not division).
+ */
+
 public class Runner {
-    private static int dividend = -214748311;
+    private static int dividend = -2147483111;
     private static int divisor = -23;
     private static long startTimer;
     private static long endTimer;

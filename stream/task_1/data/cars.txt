@@ -1,0 +1,10 @@
+BMW 3|2016|23200|black|2.0
+Mazda 3 BP|2019|20150|white|2.5
+VW Golf Alltrack|2018|22000|red|1.8
+Mercedes-Benz GLC|2017|37900|black|2.0
+Skoda Rapid|2020|15150|white|1.6
+Mercedes-Benz Vito W447|2017|35500|black|2.2
+Audi Q5 8R|2013|18300|silver|2.0
+Volvo V90 Cross Country|2018|39800|black|2.0
+Lincoln Mark LT|2006|16900|white|5.4
+VW Phaeton|2011|2011|15900|black|4.2
